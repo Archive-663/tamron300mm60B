@@ -1,6 +1,6 @@
 # Lot no. 005 | Tripod foot attachments for Tamron's 300mm 60B
 
-This lot contains various tripod foot grip attachments for one handed use for Tamron's 300mm f2.8 60b. May work for other models
+This lot contains various tripod foot grip attachments for one handed use for Tamron's 300mm f2.8 60b. May work for other models. If not, you can modify the included STEP files to fit your needs. 
 
 ## What you'll need
 
