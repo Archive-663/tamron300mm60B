@@ -4,8 +4,8 @@ This lot contains various tripod foot grip attachments for one handed use for Ta
 
 ## What you'll need
 
-an assortment of 1/4-20 bolts from 5/8" - 1-1/4"
-5/8 EMT conduit pipe
+- an assortment of 1/4-20 bolts from 5/8" - 1-1/4"
+- 5/8 EMT conduit pipe
 
 ## Photos
 
