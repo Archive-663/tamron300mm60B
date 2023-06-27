@@ -16,3 +16,7 @@ This lot contains various tripod foot grip attachments for one handed use for Ta
 ![Product 001](https://github.com/Archive-663/tamron300mm60B/blob/main/PRODUCT/DSCF5881.jpg)
 ![Product 001](https://github.com/Archive-663/tamron300mm60B/blob/main/PRODUCT/DSCF5940.jpg)
 ![Product 001](https://github.com/Archive-663/tamron300mm60B/blob/main/PRODUCT/DSCF5941.jpg)
+
+### Help support Archive 663 with a dontation or monthly sub
+
+<a href='https://ko-fi.com/P5P3MHMSF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
